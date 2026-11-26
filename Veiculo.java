@@ -76,8 +76,6 @@ public abstract class Veiculo {
     }
 
     public abstract void exibirDetalhes();
-
-    public abstract boolean possuiSeguroEspecial();
     
 }
 
